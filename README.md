@@ -1,7 +1,7 @@
 <h1>Hi, I'm Ralfazza Rajariandhana 👨‍💻 🇮🇩</h1>
 
 <h4> Passionate to keep learning about software development. Took pride in educating students on the fundamentals of programming as well as data structures. Enjoy developing games and web applications for side projects. </h4>
-
+<p><a href="https://ralfazza.com" target="blank"> ralfazza.com </a></p>
 <p> <a href="https://twitter.com/rajariangosling" target="blank"><img src="https://img.shields.io/twitter/follow/rajariangosling?logo=twitter&style=for-the-badge" alt="rajariangosling" /></a> </p>
 
 <h4>♾️ Data structures and algorithms</h4>
