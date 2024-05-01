@@ -15,7 +15,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original" alt="matplotlib" height="40"/> -->
+<!-- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/> -->
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" height="40"/>
 </p>
 <h4>🎮 Game development</h4>
 <p>
